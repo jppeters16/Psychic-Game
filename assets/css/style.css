@@ -1,0 +1,24 @@
+body {
+    font-size: 28px;
+    background-image: url("../images/qbkls.png");
+    font-family: 'Acme', sans-serif;
+    margin: 20px 0px;
+}
+
+h2 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -4em;
+}
+
+#container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+}
